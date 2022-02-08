@@ -1,22 +1,22 @@
 # Site
-name: "Memoirs"
-title: "Memoirs"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+name: "Foobar Creative"
+title: "Foobar Creative"
+description: "Hand crafted apps from down under"
+logo: 'assets/images/transparent_background_logo.png'
+favicon: 'assets/images/favicon.png'
 baseurl: /jekyll-theme-memoirs
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
+email: yo@foobarcreative.com
 
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: Ric
+    display_name: Ric
     avatar: 'assets/images/avatar-sal.png'
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net/donate/
