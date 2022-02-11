@@ -5,7 +5,7 @@
 $brown: #B59F62;
 $teal: #40FFDC;
 $black: #111;
-$primary: $teal;
+$primary: yellow;
 $dark:    $black;
 $enable-rounded: false;
 
@@ -34,6 +34,14 @@ img {
 
 h1,h2,h3,h4,h5,h6 {
     font-weight:700;
+}
+.bigtitle {
+    font-size:50px;
+    font-weight:700;
+}
+.subtitle {
+    font-size:35px;
+    font-weight:600;
 }
 .site-content {
     padding-top:50px;

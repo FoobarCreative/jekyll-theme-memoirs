@@ -2,15 +2,15 @@
 name: "Foobar Creative"
 title: "Foobar Creative"
 description: "Hand crafted apps from down under"
-logo: 'assets/images/transparent_background_logo.png'
+logo: 'assets/images/logo-transparent-1024.png'
 favicon: 'assets/images/favicon.png'
 #baseurl: /jekyll-theme-memoirs
-google_analytics: 'UA-xxxxxxxx-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+#google_analytics: 'UA-xxxxxxxx-1'
+#disqus: 'demowebsite'
+#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
-email: yo@foobarcreative.com
+email: support@ricsantos.net #yo@foobarcreative.com
 
 # Authors
 authors:
@@ -18,10 +18,10 @@ authors:
     name: Ric
     display_name: Ric
     avatar: 'assets/images/avatar-sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/donate/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
+    email: support@ricsantos.net
+    web: https://www.ricsantos.net
+    twitter: https://twitter.com/rixantos
+    description: "iOS developer from Adelaie, Australia."
   john:
     name: John
     display_name: John    
