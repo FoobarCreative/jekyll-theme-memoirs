@@ -1,0 +1,14 @@
+---
+layout: portfolio
+modal-id: 5
+date: 2014-07-14
+image: assets/images/markus-winkler-soogk-IOdMw-unsplash.jpg
+alt: image-alt
+project-date: 2018
+title: Dedupify
+category: Calendar and Photos
+appid: 1381180115
+
+--- 
+
+Dedupify helps you declutter your iOS Calendars and Photo library by searching for duplicates and presenting them for easy deletion.
