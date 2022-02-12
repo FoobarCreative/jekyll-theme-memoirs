@@ -5,7 +5,7 @@ date: 2019-06-28
 image: assets/images/behar-zenuni-U1-pZAXmRmM-unsplash.jpg
 alt: image-alt
 project-date: 2019
-title: Interval Timer
+title: Interval Timer for Tasks
 category: Watch Utility
 appid: 1455772101
 rating: 5
