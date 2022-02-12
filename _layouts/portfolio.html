@@ -48,11 +48,15 @@ post_class: post-template
 </div>
 {% endif %}
 
+<!-- App Store Link -->
+{% if page.appid %}
+<div class="rating mt-4 mb-4 d-flex align-items-center">
+    <a href="https://apps.apple.com/app/id{{ page.appid }}?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1308268800&h=c14d16edf7878a90151085165a16947b" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+</div>
+{% endif %}
+
 <!-- Author Box if enabled from _config.yml -->
 {% include author-box.html %}
-
-<!-- Comments if not disabled with comments: false -->
-{% include comments.html %}
 
 <!-- Share -->
 {% include share.html %}
