@@ -8,7 +8,7 @@ project-date: 2018
 title: Dedupify
 category: Calendar and Photos
 appid: 1381180115
-
+rating: 5
 --- 
 
 Dedupify helps you declutter your iOS Calendars and Photo library by searching for duplicates and presenting them for easy deletion.

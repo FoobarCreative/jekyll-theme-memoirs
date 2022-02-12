@@ -9,6 +9,7 @@ title: Widget Timer
 category: Watch Utility
 appid: 1455772101
 description: 
+rating: 5
 ---
 
 Timers on your home screen! In 2020 Apple introduced Widgets on the iOS 14 home screen.

@@ -8,6 +8,7 @@ project-date: 2015
 client: My own project
 category: Watch Utility
 appid: 443410415
+rating: 4.5
 --- 
 
 A simple to setup timer for repeating reminders to help you work and relax.
