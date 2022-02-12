@@ -15,6 +15,9 @@ comments: false
 <input class="form-control" type="email" name="_replyto" placeholder="E-mail Address*" required>
 </div>
 </div>
+
+<input class="form-control mb-3" type="app-name" name="app-name" placeholder="App Name (optional)">
+
 <textarea rows="8" class="form-control mb-3" name="message" placeholder="Message*" required></textarea>    
 <input class="btn btn-dark" type="submit" value="Send">
 </form>
