@@ -34,7 +34,7 @@ _Foobar Creative_ reserves the right to make amendments to this Privacy Policy a
 
 ### Accessing Your Personal Information
 
-You have a right to access your personal information, subject to exceptions allowed by law. If you would like to do so, please let us know. You may be required to put your request in writing for security reasons. _Foobar Creative_reserves the right to charge a fee for searching for, and providing access to, your information on a per request basis.
+You have a right to access your personal information, subject to exceptions allowed by law. If you would like to do so, please let us know. You may be required to put your request in writing for security reasons. _Foobar Creative_ reserves the right to charge a fee for searching for, and providing access to, your information on a per request basis.
 
 ### Contacting us
 
