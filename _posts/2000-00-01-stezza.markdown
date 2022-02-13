@@ -5,7 +5,7 @@ date: 2014-07-18
 image: assets/images/hero-hardware.jpg
 alt: image-alt
 project-date: 2013
-title: Stezza
+title: "Stezza Music Player - Discover your music"
 category: Music
 appid: 590317007
 rating: 4

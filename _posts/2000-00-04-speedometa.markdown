@@ -5,7 +5,7 @@ date: 2014-07-15
 image: assets/images/ludovic-charlet-CGWK6k2RduY-unsplash.jpg
 alt: image-alt
 project-date: 20??
-client: My own project
+title: "Speedometa - Speed Cameras and GPS"
 category: Navigation
 appid: 528965819
 rating: 4
