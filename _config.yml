@@ -10,7 +10,7 @@ favicon: 'assets/images/favicon.png'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
-email: support@ricsantos.net #yo@foobarcreative.com
+email: support@foobarcreative.com
 
 # Authors
 authors:
@@ -21,7 +21,7 @@ authors:
     email: support@ricsantos.net
     web: https://www.ricsantos.net
     twitter: https://twitter.com/rixantos
-    description: "iOS developer from Adelaie, Australia."
+    description: "iOS developer from Adelaide, Australia."
   john:
     name: John
     display_name: John    
