@@ -6,7 +6,7 @@ image: assets/images/laura-chouette-zp5EGN2vxLM-unsplash.jpg
 alt: image-alt
 project-date: 2015
 title: "Repeat Timer - #1 App for Repeating Tasks"
-category: Watch Utility
+category: Watch Utilities
 appid: 443410415
 rating: 4.5
 --- 

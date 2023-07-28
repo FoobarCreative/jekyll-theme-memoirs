@@ -8,7 +8,7 @@ project-date: 2023
 title: "Mystic Visions"
 category: AI
 appid: 6448315587
-rating: 5.0
+rating: 4.5
 --- 
 
 Mystic Visions: Your Gateway to the Mystical Realm 🌌🔮

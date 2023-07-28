@@ -6,7 +6,7 @@ image: assets/images/rafal-jedrzejek-qpsP1IVnSgY-unsplash.jpg
 alt: image-alt
 project-date: 2019
 title: "Widget Timer - Customize your Home Screen"
-category: Watch Utility
+category: Utilities
 appid: 1447612547
 description: 
 rating: 5

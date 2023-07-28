@@ -6,7 +6,7 @@ image: assets/images/behar-zenuni-U1-pZAXmRmM-unsplash.jpg
 alt: image-alt
 project-date: 2019
 title: "Interval Timer for Tasks - Work, Rest, Repeat"
-category: Watch Utility
+category: Watch Utilities
 appid: 1455772101
 rating: 5
 ---
