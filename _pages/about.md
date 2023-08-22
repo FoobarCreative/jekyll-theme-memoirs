@@ -7,5 +7,5 @@ image: assets/images/ux-store-jJT2r2n7lYA-unsplash.jpg
 imageshadow: false
 ---
 
-Foobar Creative is an Australian based app developer for Apple platforms, hand crafting apps since 2012.
+Foobar Creative is an Australian based app developer for Apple platforms. We build high quality, bespoke apps for iOS, iPad OS and watchOS.
 
