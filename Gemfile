@@ -8,8 +8,9 @@ source "https://rubygems.org"
 #
 
 # If you have any plugins, put them here!
-gem 'wdm', '>= 0.1.0' if Gem.win_platform?
-gem 'jekyll', '~> 3.9.0'
+
+gem 'github-pages'
+gem 'jekyll', '~> 3.10'
 group :jekyll_plugins do
     gem 'jekyll-feed'
     gem 'jekyll-sitemap'
@@ -22,6 +23,8 @@ group :jekyll_plugins do
     gem 'rouge'
 end
 
+# Arm mac support
+gem 'ffi', '~> 1.16.0'
 
 ### DON"T COMMIT THIS INCASE IT BREAKS GH PAGES (OR TEST FIRST)
 gem 'minitest', '~> 4.7.5'
