@@ -39,7 +39,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-figure
-    
+  - jekyll-redirect-from
+
 # Archives
 jekyll-archives:
   enabled:
