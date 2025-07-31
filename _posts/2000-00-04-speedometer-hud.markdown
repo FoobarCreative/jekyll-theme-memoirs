@@ -2,8 +2,8 @@
 layout: portfolio
 modal-id: 4
 date: 2014-07-15
-image: assets/images/ludovic-charlet-CGWK6k2RduY-unsplash.jpg
-alt: image-alt
+image: assets/images/speedometer-website-hero.jpg
+alt: speedometer hud speed camera alerts hero
 project-date: 20??
 title: "Speedometer HUD - Speed Cameras and GPS"
 category: Navigation
