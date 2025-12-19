@@ -1,0 +1,29 @@
+---
+layout: portfolio
+modal-id: 15
+date: 2025-12-19
+image: assets/images/wincy_header.jpg
+alt: image-alt
+project-date: 2025
+title: "Wincy: Safe Browser for Kids"
+category: Education
+appid: 6755565937
+rating: 4.5
+---
+
+A safe web browser built just for kids. Parents can approve websites, and external links are blocked.
+
+Wincy puts parents in control with powerful features designed for peace of mind:
+* Parent-approved website filtering
+* Customizable permissions
+* Built-in parental controls
+* Curated, age-appropriate search results
+* Screen time management with scheduling
+* Educational resource access
+* Child-friendly interface
+
+Whether your kids are learning, exploring, or having fun online, Wincy keeps them safe in a controlled, age-appropriate browsing environment.
+
+Built for iOS with safety and simplicity in mind from Adelaide, Australia.
+
+[Wincy Website](https://wincybrowser.com)
