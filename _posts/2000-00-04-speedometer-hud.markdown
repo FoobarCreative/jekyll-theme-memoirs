@@ -12,4 +12,3 @@ rating: 4
 --- 
 
 Speedometer HUD is a modern addition to your car's dashboard. Use it to see your speed and heading with GPS accuracy. The map will show you the location of nearby speed cameras, and if enabled the app will notify you when you are approaching a speed camera (only if the app is open and in the foreground).<br><br>Any questions, ideas or suggestions email <a href="mailto:support@speedometerhud.com">support@speedometerhud.com</a><br><br>Speed Camera data is made available under the Open Database License<br>© OpenStreetMap contributors<br><br>
-

@@ -15,5 +15,4 @@ A simple to setup timer for repeating reminders to help you work and relax. Conf
 
 Built for iOS and watchOS.
 
-<a href="https://repeattimer.app">Repeat Timer Website</a>
-
+[Repeat Timer Website](https://repeattimer.app)
