@@ -1,0 +1,27 @@
+---
+layout: portfolio
+modal-id: 16
+date: 2025-12-20
+image: assets/images/renosnap_header.jpg
+alt: image-alt
+project-date: 2025
+title: "Renosnap: AI Home Designer"
+category: AI
+appid: 6759269892
+rating: 5
+---
+
+Transform your home with just a snap and a tap. Renosnap uses AI to reimagine your spaces — try new styles, colors, and layouts before you commit to a single change.
+
+Snap a photo of any room and explore endless design possibilities:
+* AI-powered room redesigns
+* Multiple style options at your fingertips
+* Visualize before you renovate
+* Quick, photo-based workflow
+* Inspiration for any space
+
+Whether you're planning a full renovation or just want to refresh a single room, Renosnap helps you see what's possible.
+
+Built for iOS from Adelaide, Australia.
+
+[Renosnap Website](https://www.renosnap.app)
