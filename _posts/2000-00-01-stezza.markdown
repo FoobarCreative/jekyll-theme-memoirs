@@ -2,15 +2,22 @@
 layout: portfolio
 modal-id: 1
 date: 2014-07-18
-image: assets/images/hero-hardware.jpg
+image: assets/images/stezza_header.jpg
 alt: image-alt
 project-date: 2013
-title: "Stezza Music Player - Discover your music"
+title: "Stezza: Simple Music Player"
 category: Music
 appid: 590317007
 rating: 4
 ---
 
-Stezza is a simple and stylish way to interact with your iTunes media library. It has all of the standard iPod features, wrapped in a easy to use interface that suits an active lifestyle.<br><br>"Stezza is meant to be quick, easy and accessible. If that’s all you’re after, look no further."<br>- Cult of Mac<br><br>
+Stezza is a simple, stylish music player for your Apple Music and iTunes library. Built for people who just want to play their music — no clutter, no distractions.
+
+* Stream from Apple Music and iTunes Match
+* Play your synced music library
+* Video playback for files copied via Finder or iTunes
+* Clean, distraction-free interface
+
+"Stezza is meant to be quick, easy and accessible. If that's all you're after, look no further." — Cult of Mac
 
 [Stezza Website](https://stezza.app)
