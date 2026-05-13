@@ -4,6 +4,7 @@ title: Contact
 permalink: /contact
 redirect_from:
   - /support
+  - /contact/
 comments: false
 ---
 

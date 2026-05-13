@@ -5,6 +5,8 @@ date: 2014-07-18
 image: assets/images/stezza_header.jpg
 alt: image-alt
 project-date: 2013
+redirect_from:
+  - /stezza/
 title: "Stezza Music Player"
 category: Music
 appid: 590317007

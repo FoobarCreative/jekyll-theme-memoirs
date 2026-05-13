@@ -5,6 +5,8 @@ date: 2014-07-15
 image: assets/images/speedometer-website-hero.jpg
 alt: speedometer hud speed camera alerts hero
 project-date: 20??
+redirect_from:
+  - /speedometer-hud/
 title: "Speedometer HUD - Speed Cameras and GPS"
 category: Navigation
 appid: 528965819

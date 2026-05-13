@@ -5,6 +5,8 @@ date: 2019-06-28
 image: assets/images/widget-timer-theme-gallery-hero-landscape.jpg
 alt: image-alt
 project-date: 2019
+redirect_from:
+  - /widget-timer/
 title: "Widget Timer - Customize your Home Screen"
 category: Utilities
 appid: 1447612547

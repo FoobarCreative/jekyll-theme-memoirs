@@ -5,6 +5,8 @@ date: 2023-05-26
 image: assets/images/mystic_cell.jpg
 alt: image-alt
 project-date: 2023
+redirect_from:
+  - /mystic-visions/
 title: "Mystic Visions"
 category: AI
 appid: 6448315587

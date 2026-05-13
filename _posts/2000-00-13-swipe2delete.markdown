@@ -5,6 +5,8 @@ date: 2024-09-18
 image: assets/images/swipe2delete_header.jpg
 alt: image-alt
 project-date: 2024
+redirect_from:
+  - /swipe2delete/
 title: "Swipe2delete Photo Cleaner"
 category: Utilities
 appid: 6464102619

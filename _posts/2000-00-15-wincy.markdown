@@ -5,6 +5,8 @@ date: 2025-12-19
 image: assets/images/wincy_header.jpg
 alt: image-alt
 project-date: 2025
+redirect_from:
+  - /wincy/
 title: "Wincy: Safe Browser for Kids"
 category: Education
 appid: 6755565937

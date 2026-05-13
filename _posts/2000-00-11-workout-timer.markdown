@@ -5,6 +5,8 @@ date: 2020-01-11
 image: assets/images/chander-r-z4WH11FMfIQ-unsplash.jpg
 alt: image-alt
 project-date: 2022
+redirect_from:
+  - /workout-timer/
 title: "Push! Workout Timer"
 category: Fitness
 appid: 1634333837

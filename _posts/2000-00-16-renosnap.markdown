@@ -5,6 +5,8 @@ date: 2025-12-20
 image: assets/images/renosnap_header.jpg
 alt: image-alt
 project-date: 2025
+redirect_from:
+  - /renosnap/
 title: "Renosnap: AI Home Designer"
 category: AI
 appid: 6759269892

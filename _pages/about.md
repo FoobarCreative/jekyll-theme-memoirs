@@ -2,6 +2,8 @@
 layout: page
 title: About Foobar Creative
 permalink: /about
+redirect_from:
+  - /about/
 comments: false
 image: assets/images/ux-store-jJT2r2n7lYA-unsplash.jpg
 imageshadow: false
