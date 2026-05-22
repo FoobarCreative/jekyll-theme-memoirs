@@ -10,13 +10,20 @@ redirect_from:
 title: "Push! Workout Timer"
 category: Fitness
 appid: 1634333837
+weburl: https://pushworkouttimer.com/
 rating: 5
---- 
+---
 
-It's time to Push! 
+It's time to Push!
 
 Build your own tailored workout and reach your fitness goals.
 
-Push! Workout Timer brings Apple Health integration to your iPhone. Featuring a 
+Push! Workout Timer brings Apple Health integration to your iPhone. Featuring a
 bunch of timers to get you up and running, and a powerful timer editor to create
 your own custom workout timer.
+
+Prefer to train in your browser? The web version supports Tabata, HIIT, EMOM and AMRAP timers — no install needed.
+
+![Push! Workout Timer running in a browser]({{ site.baseurl }}/assets/images/pushworkouttimer-web.jpg)
+
+[Open the web app at pushworkouttimer.com →](https://pushworkouttimer.com/)
