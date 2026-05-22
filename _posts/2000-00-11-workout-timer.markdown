@@ -24,6 +24,6 @@ your own custom workout timer.
 
 Prefer to train in your browser? The web version supports Tabata, HIIT, EMOM and AMRAP timers — no install needed.
 
-![Push! Workout Timer running in a browser]({{ site.baseurl }}/assets/images/pushworkouttimer-web.jpg)
+<img src="{{ site.baseurl }}/assets/images/pushworkouttimer-web.jpg" alt="Push! Workout Timer running in a browser" style="border-radius: 16px; max-width: 100%;">
 
 [Open the web app at pushworkouttimer.com →](https://pushworkouttimer.com/)
