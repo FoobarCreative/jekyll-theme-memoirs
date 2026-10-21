@@ -2,6 +2,7 @@
 layout: portfolio
 modal-id: 12
 date: 2023-05-26
+last_modified_at: 2026-05-14
 image: assets/images/mystic_cell.jpg
 alt: image-alt
 project-date: 2023
